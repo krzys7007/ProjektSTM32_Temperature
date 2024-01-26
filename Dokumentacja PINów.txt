@@ -1,0 +1,7 @@
+Dokumentacja:
+PB2 - Switch PIN
+PD7 - Heat Output PIN (Ypid)
+PB6 - I2C1 Clock - Temp Sensor
+PB9 - I2C1 SDA - Temp Sensor
+PF1 - I2C2 Clock - Oled screen
+PF0 - I2C2 SDA - Oled screen

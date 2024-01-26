@@ -1,0 +1,5 @@
+../Core/Src/Display_Animations.c:40:6:Graf	24	static
+../Core/Src/Display_Animations.c:61:6:DottedLine	40	static
+../Core/Src/Display_Animations.c:68:6:TempZadScreen	80	static
+../Core/Src/Display_Animations.c:87:6:rysuj_wykres	40	static
+../Core/Src/Display_Animations.c:108:6:ssd1306_TestDrawBitmap	8	static
